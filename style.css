@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.p{
+    width: 434.9771728515625px;
+font-weight: 700;
+font-size: 36px;
+line-height: 56px;
+font-family: "Mulish", sans-serif;
+color: #000000;
+
+
+}
+.f{
+    width: 434.9771728515625px;
+    font-weight: 300;
+    font-family: "Mulish", sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+    margin-top: 62px;
+}
+.button{
+    padding-right: 56px;
+    padding-left: 46px;
+    padding-top: 16px;
+    padding-bottom: 17px;
+    font-weight: 700;
+    font-size: 17px;
+    font-family: "Mulish", sans-serif;
+    line-height: 100%;
+    color: #458FF6;
+      border: 1.4px solid #458FF6;
+      border-radius: 55px;
+      background-color: white;
+      margin-top: 41px;
+}
+.div{
+    width: 1180px;
+    margin: 0 auto;
+    display: flex;
+    
+    gap: 117px;
+}
+.margin{
+    margin-top: 36px;
+    
+}
+.bola{
+    width: 380px;
+    height: 516px;
+    background-color: white;
+}
+.pp{
+    width: 251px;
+    font-weight: 700;
+    font-size: 21px;
+    font-family: "Mulish", sans-serif;
+    color: #000000;
+    line-height: 32px;
+    margin-top: 22px;
+    margin-left: 30px;
+}
+.tez{
+    width: 266px;
+    font-weight: 300;
+    font-size: 16px;
+    font-family: "Mulish", sans-serif;
+    line-height: 28px;
+    color: #7D7987;
+    margin-top: 18px;
+    margin-left: 30px;
+}
+a{
+    font-family: "Mulish", sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 28px;
+    color: #4089ED;
+   
+}
+.ber{
+     margin-top: 18px;
+    margin-left: 30px;
+    display: flex;
+    gap: 15px;
+}
+.dis{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.katta{
+    text-align: center;
+    
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 56px;
+    font-family: "Mulish", sans-serif;
+    color: #000000;
+    margin-top: 152px;
+    margin-bottom: 109px;
+   
+}
+.brr{
+    padding-left: 66px;
+    padding-bottom: 17px;
+    padding-top: 16px;
+    padding-right: 65px;
+    color: #458FF6;
+    font-size: 17px;
+    font-weight: 700;
+    font-family: "Mulish", sans-serif;
+    line-height: 100%;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    margin-left: 620px;
+    margin-top: 43px;
+    background-color: white;
+    
+}
+.fot{
+    font-weight: 300;
+    font-family: "Mulish", sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    width: 386px;
+    color: #FFFFFF;
+    margin-top: 17px;
+   
+}
+footer{
+    width: 1600px;
+    background-color: #5A98F2;
+    height: 432px;
+    margin-top: 230px;
+   
+}
+
+.text{
+    padding-top: 159px;
+    
+    display: flex;
+    justify-content: center;
+   align-items: center;
+    gap: 160px;
+}
+.com{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 100%;
+    font-family: "Mulish", sans-serif;
+    
+}
+.kich{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 100%;
+    font-family: "Mulish", sans-serif;
+    
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.jud{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 100%;
+    font-family: "Mulish", sans-serif;
+    margin-top: 10px;
+    color: #FFFFFF;
+}
+    
